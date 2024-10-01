@@ -17,3 +17,9 @@ addrees3|private3|xxx
 ```bash
 node ./src/main.js
 ```
+
+### Có thể chạy lệnh dưới để tạo nhanh ví đúng định dạng trên, tùy chỉnh số lượng ví cần tạo trước khi chạy ###
+
+```bash
+node ./src/createWallet.js
+```
